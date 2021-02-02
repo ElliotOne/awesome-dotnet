@@ -68,6 +68,7 @@ Contributions are always welcome!
 * [Books](#books)
 * [Videos](#videos)
 * [Podcasts](#podcasts)
+* [Community](#community)
   
   
 ## Libraries, Frameworks and Tools
@@ -241,3 +242,6 @@ Contributions are always welcome!
 
 
 ## Podcasts
+
+
+## Community
