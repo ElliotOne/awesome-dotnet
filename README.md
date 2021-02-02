@@ -21,6 +21,7 @@ Contributions are always welcome!
   * [Caching](#caching)
   * [CMS](#cms)
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
+  * [Compression](#compression)
   
 ## Libraries, Frameworks and Tools
 
@@ -55,3 +56,9 @@ Contributions are always welcome!
 
 
 ### Code Analysis and Metrics
+
+
+### Compression
+
+
+
