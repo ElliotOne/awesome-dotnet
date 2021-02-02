@@ -32,6 +32,7 @@ Contributions are always welcome!
   * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Exceptions](#exceptions)
   * [Functional Programming](#functional-programming)
+  * [Graphics](#graphics)
   
   
 ## Libraries, Frameworks and Tools
@@ -100,3 +101,6 @@ Contributions are always welcome!
 
 
 ### Functional Programming
+
+
+### Graphics
