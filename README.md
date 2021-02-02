@@ -29,6 +29,7 @@ Contributions are always welcome!
   * [Database Tools and Utilities](#database-tools-and-utilities)
   * [Date and Time](#date-and-time)
   * [Distributed Computing](#distributed-computing)
+  * [E-Commerce and Payments](#e-commerce-and-payments)
   
   
 ## Libraries, Frameworks and Tools
@@ -88,3 +89,6 @@ Contributions are always welcome!
 
 
 ### Distributed Computing
+
+
+### E-Commerce and Payments
