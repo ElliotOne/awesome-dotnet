@@ -40,6 +40,8 @@ Contributions are always welcome!
   * [Logging](#logging)
   * [Machine Learning and Data Science](#machine-learning-and-data-science)
   * [Mail](#mail)
+  * [Mathematics](#mathematics)
+  
   
   
 ## Libraries, Frameworks and Tools
@@ -132,3 +134,6 @@ Contributions are always welcome!
 
 
 ### Mail
+
+
+### Mathematics
