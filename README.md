@@ -53,6 +53,7 @@ Contributions are always welcome!
   * [SDKs](#sdks)
   * [Security](#security)
   * [Searching](#searching)
+  * [Serialization](#serialization)
     
   
 ## Libraries, Frameworks and Tools
@@ -184,3 +185,6 @@ Contributions are always welcome!
 
 
 ### Searching
+
+
+### Serialization
