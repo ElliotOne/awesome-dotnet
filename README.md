@@ -35,6 +35,7 @@ Contributions are always welcome!
   * [Graphics](#graphics)
   * [GUI](#gui)
   * [IDE](#ide)
+  * [Internationalization](#internationalization)
   
   
 ## Libraries, Frameworks and Tools
@@ -112,3 +113,6 @@ Contributions are always welcome!
 
 
 ### IDE
+
+
+### Internationalization
