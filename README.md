@@ -18,3 +18,4 @@ Contributions are always welcome!
 ### API
 
 * [Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) - Swagger tools for documenting API's built on ASP.NET Core
+* [dotnetcore-entityframework-api](https://github.com/chsakell/dotnetcore-entityframework-api) - Building REST APIs using ASP.NET Core and Entity Framework Core
