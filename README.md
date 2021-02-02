@@ -67,7 +67,8 @@ Contributions are always welcome!
 * [Articles](#articles)
 * [Books](#books)
 * [Videos](#videos)
-
+* [Podcasts](#podcasts)
+  
   
 ## Libraries, Frameworks and Tools
 
@@ -237,3 +238,6 @@ Contributions are always welcome!
 
 
 ## Videos
+
+
+## Podcasts
