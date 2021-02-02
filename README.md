@@ -34,6 +34,7 @@ Contributions are always welcome!
   * [Functional Programming](#functional-programming)
   * [Graphics](#graphics)
   * [GUI](#gui)
+  * [IDE](#ide)
   
   
 ## Libraries, Frameworks and Tools
@@ -108,3 +109,6 @@ Contributions are always welcome!
 
 
 ### GUI
+
+
+### IDE
