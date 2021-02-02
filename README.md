@@ -47,6 +47,7 @@ Contributions are always welcome!
   * [Office](#office)
   * [ORM](#orm)
   * [Profiling](#profiling)
+  * [Queue and Messaging](#queue-and-messaging)
   
   
 ## Libraries, Frameworks and Tools
@@ -160,3 +161,6 @@ Contributions are always welcome!
 
 
 ### Profiling
+
+
+### Queue and Messaging
