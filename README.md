@@ -43,6 +43,7 @@ Contributions are always welcome!
   * [Mathematics](#mathematics)
   * [Media](#media)
   * [Networking](#networking)
+  * [Misc](#misc)
   
   
 ## Libraries, Frameworks and Tools
@@ -144,3 +145,6 @@ Contributions are always welcome!
 
 
 ### Networking
+
+
+### Misc
