@@ -15,6 +15,7 @@ Contributions are always welcome!
   * [Application Frameworks](#application-frameworks)
   * [Authentication and Authorization](#authentication-and-authorization)
   * [Blockchain](#blockchain)
+  * [Bot](#bot)
   
 ## Libraries, Frameworks and Tools
 
@@ -31,3 +32,6 @@ Contributions are always welcome!
 
 
 ### Blockchain
+
+
+### Bot
