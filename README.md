@@ -18,6 +18,9 @@ Contributions are always welcome!
   * [Bot](#bot)
   * [Build Automation](#build-automation)
   * [Bundling and Minification](#bundling-and-minification)
+  * [Caching](#caching)
+  
+  
   
 ## Libraries, Frameworks and Tools
 
@@ -43,3 +46,6 @@ Contributions are always welcome!
 
 
 ### Bundling and Minification
+
+
+### Caching
