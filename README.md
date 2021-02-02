@@ -33,6 +33,7 @@ Contributions are always welcome!
   * [Exceptions](#exceptions)
   * [Functional Programming](#functional-programming)
   * [Graphics](#graphics)
+  * [GUI](#gui)
   
   
 ## Libraries, Frameworks and Tools
@@ -104,3 +105,6 @@ Contributions are always welcome!
 
 
 ### Graphics
+
+
+### GUI
