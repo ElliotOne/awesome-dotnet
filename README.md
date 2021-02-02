@@ -12,6 +12,7 @@ Contributions are always welcome!
 * [Awesome DotNet](#awesome-dotnet)
 * [Libraries, Frameworks and Tools](#libraries-frameworks-and-tools)
   * [API](#api)
+  * [Application Frameworks](#application-frameworks)
 
 ## Libraries, Frameworks and Tools
 
@@ -19,3 +20,6 @@ Contributions are always welcome!
 
 * [Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) - Swagger tools for documenting API's built on ASP.NET Core
 * [dotnetcore-entityframework-api](https://github.com/chsakell/dotnetcore-entityframework-api) - Building REST APIs using ASP.NET Core and Entity Framework Core
+
+
+### Application Frameworks
