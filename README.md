@@ -37,6 +37,8 @@ Contributions are always welcome!
   * [IDE](#ide)
   * [Internationalization](#internationalization)
   * [IOC](#ioc)
+  * [Logging](#logging)
+  
   
 ## Libraries, Frameworks and Tools
 
@@ -119,3 +121,6 @@ Contributions are always welcome!
 
 
 ### IOC
+
+
+### Logging
