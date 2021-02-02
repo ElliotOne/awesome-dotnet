@@ -17,6 +17,7 @@ Contributions are always welcome!
   * [Blockchain](#blockchain)
   * [Bot](#bot)
   * [Build Automation](#build-automation)
+  * [Bundling and Minification](#bundling-and-minification)
   
 ## Libraries, Frameworks and Tools
 
@@ -39,3 +40,6 @@ Contributions are always welcome!
 
 
 ### Build Automation
+
+
+### Bundling and Minification
