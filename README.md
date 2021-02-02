@@ -20,7 +20,7 @@ Contributions are always welcome!
   * [Bundling and Minification](#bundling-and-minification)
   * [Caching](#caching)
   * [CMS](#cms)
-  
+  * [Code Analysis and Metrics](#code-analysis-and-metrics)
   
 ## Libraries, Frameworks and Tools
 
@@ -52,3 +52,6 @@ Contributions are always welcome!
 
 
 ### CMS
+
+
+### Code Analysis and Metrics
