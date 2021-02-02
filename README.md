@@ -31,6 +31,8 @@ Contributions are always welcome!
   * [Distributed Computing](#distributed-computing)
   * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Exceptions](#exceptions)
+  * [Functional Programming](#functional-programming)
+  
   
 ## Libraries, Frameworks and Tools
 
@@ -95,3 +97,6 @@ Contributions are always welcome!
 
 
 ### Exceptions
+
+
+### Functional Programming
