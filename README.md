@@ -41,7 +41,7 @@ Contributions are always welcome!
   * [Machine Learning and Data Science](#machine-learning-and-data-science)
   * [Mail](#mail)
   * [Mathematics](#mathematics)
-  
+  * [Media](#media)
   
   
 ## Libraries, Frameworks and Tools
@@ -137,3 +137,6 @@ Contributions are always welcome!
 
 
 ### Mathematics
+
+
+### Media
