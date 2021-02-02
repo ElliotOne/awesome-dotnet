@@ -13,7 +13,9 @@ Contributions are always welcome!
 * [Libraries, Frameworks and Tools](#libraries-frameworks-and-tools)
   * [API](#api)
   * [Application Frameworks](#application-frameworks)
-
+  * [Authentication and Authorization](#authentication-and-authorization)
+  
+  
 ## Libraries, Frameworks and Tools
 
 ### API
@@ -23,3 +25,6 @@ Contributions are always welcome!
 
 
 ### Application Frameworks
+
+
+### Authentication and Authorization
