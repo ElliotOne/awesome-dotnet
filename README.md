@@ -10,9 +10,9 @@ Contributions are always welcome!
 # Table of Contents
 
 * [Awesome DotNet](#awesome-dotnet)
-* [Libraries,frameworks and Tools](#libraries-frameworks-and-tools)
+* [Libraries, Frameworks and Tools](#libraries-frameworks-and-tools)
   * [API](#api)
 
-## Libraries,frameworks and Tools
+## Libraries, Frameworks and Tools
 
 ### API
