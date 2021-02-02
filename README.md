@@ -30,7 +30,7 @@ Contributions are always welcome!
   * [Date and Time](#date-and-time)
   * [Distributed Computing](#distributed-computing)
   * [E-Commerce and Payments](#e-commerce-and-payments)
-  
+  * [Exceptions](#exceptions)
   
 ## Libraries, Frameworks and Tools
 
@@ -92,3 +92,6 @@ Contributions are always welcome!
 
 
 ### E-Commerce and Payments
+
+
+### Exceptions
