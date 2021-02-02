@@ -16,3 +16,5 @@ Contributions are always welcome!
 ## Libraries, Frameworks and Tools
 
 ### API
+
+* [Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) - Swagger tools for documenting API's built on ASP.NET Core
