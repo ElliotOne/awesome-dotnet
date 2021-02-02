@@ -16,6 +16,7 @@ Contributions are always welcome!
   * [Authentication and Authorization](#authentication-and-authorization)
   * [Blockchain](#blockchain)
   * [Bot](#bot)
+  * [Build Automation](#build-automation)
   
 ## Libraries, Frameworks and Tools
 
@@ -35,3 +36,6 @@ Contributions are always welcome!
 
 
 ### Bot
+
+
+### Build Automation
