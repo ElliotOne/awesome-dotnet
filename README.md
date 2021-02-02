@@ -66,6 +66,7 @@ Contributions are always welcome!
 * [Sample Projects](#sample-projects)
 * [Articles](#articles)
 * [Books](#books)
+* [Videos](#videos)
 
   
 ## Libraries, Frameworks and Tools
@@ -233,3 +234,6 @@ Contributions are always welcome!
 
 
 ## Books
+
+
+## Videos
