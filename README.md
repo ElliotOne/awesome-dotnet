@@ -93,6 +93,7 @@ Contributions are always welcome!
 
 ### Bot
 
+* [Telegram.Bot.Framework](https://github.com/TelegramBots/Telegram.Bot.Framework) - Simple framework for building Telegram bots
 
 ### Build Automation
 
