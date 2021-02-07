@@ -85,6 +85,7 @@ Contributions are always welcome!
 
 ### Authentication and Authorization
 
+* [IdentityServer4](https://github.com/IdentityServer/IdentityServer4) - OpenID Connect and OAuth 2.0 Framework for ASP.NET Core
 
 ### Blockchain
 
