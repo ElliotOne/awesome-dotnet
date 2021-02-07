@@ -97,6 +97,7 @@ Contributions are always welcome!
 
 ### Build Automation
 
+* [azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) - AboutThis repository is for active development of the Azure SDK for .NET.
 
 ### Bundling and Minification
 
