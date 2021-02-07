@@ -101,6 +101,7 @@ Contributions are always welcome!
 
 ### Bundling and Minification
 
+* [adams85/bundling](https://github.com/adams85/bundling) - A library for optimizing and bundling web assets of ASP.NET Core applications.
 
 ### Caching
 
