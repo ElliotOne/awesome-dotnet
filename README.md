@@ -81,6 +81,7 @@ Contributions are always welcome!
 
 ### Application Frameworks
 
+* [maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 
 ### Authentication and Authorization
 
