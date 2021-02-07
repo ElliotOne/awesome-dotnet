@@ -89,6 +89,7 @@ Contributions are always welcome!
 
 ### Blockchain
 
+* [dotnet-core-blockchain](https://github.com/dpedwards/dotnet-core-blockchain) - .NET Core Blockchain with cryptography process of creating and chaining blocks, network & mining etc.
 
 ### Bot
 
