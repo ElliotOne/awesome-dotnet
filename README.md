@@ -146,6 +146,7 @@ Contributions are always welcome!
 
 ### Date and Time
 
+* [nodatime](https://github.com/nodatime/nodatime) - A better date and time API for .NET
 
 ### Distributed Computing
 
