@@ -189,6 +189,7 @@ Contributions are always welcome!
 
 ### IOC
 
+* [Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container
 
 ### Logging
 
