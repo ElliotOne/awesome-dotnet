@@ -231,6 +231,7 @@ Contributions are always welcome!
 ### Profiling
 
 * [CoreProfiler](https://github.com/teddymacn/CoreProfiler) - A .NET Core Profiling Library
+* [MiniProfiler/dotnet](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET (and Core) websites
 
 ### Queue and Messaging
 
