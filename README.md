@@ -170,6 +170,7 @@ Contributions are always welcome!
 
 ### Graphics
 
+* [ImageSharp](https://github.com/SixLabors/ImageSharp) - A modern, cross-platform, 2D Graphics library for .NET
 
 ### GUI
 
