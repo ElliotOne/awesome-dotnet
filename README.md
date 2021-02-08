@@ -185,6 +185,7 @@ Contributions are always welcome!
 
 ### Internationalization
 
+* [i18n](https://github.com/turquoiseowl/i18n) - Smart internationalization for ASP.NET
 
 ### IOC
 
