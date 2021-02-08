@@ -161,6 +161,7 @@ Contributions are always welcome!
 ### Exceptions
 
 * [AspNetCore.FriendlyExceptions](https://github.com/semack/AspNetCore.FriendlyExceptions) - ASP.NET Core Filter and Middleware to catch exceptions and translate them into nice HTTP responses
+* [GlobalExceptionHandlerDotNet](https://github.com/JosephWoodward/GlobalExceptionHandlerDotNet) - Exception handling as a convention in the ASP.NET Core request pipeline
 
 ### Functional Programming
 
