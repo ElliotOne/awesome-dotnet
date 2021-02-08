@@ -160,6 +160,7 @@ Contributions are always welcome!
 
 ### Exceptions
 
+* [AspNetCore.FriendlyExceptions](https://github.com/semack/AspNetCore.FriendlyExceptions) - ASP.NET Core Filter and Middleware to catch exceptions and translate them into nice HTTP responses
 
 ### Functional Programming
 
