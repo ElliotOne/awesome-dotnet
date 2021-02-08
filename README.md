@@ -181,6 +181,7 @@ Contributions are always welcome!
 
 ### IDE
 
+* [vscode](https://github.com/microsoft/vscode) - Visual Studio Code - Open Source ("Code - OSS")
 
 ### Internationalization
 
