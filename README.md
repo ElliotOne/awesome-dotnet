@@ -110,6 +110,7 @@ Contributions are always welcome!
 
 ### CMS
 
+* [nopCommerce](https://github.com/nopSolutions/nopCommerce) - The most popular open-source eCommerce shopping cart solution based on ASP.NET Core
 * [OrchardCore](https://github.com/OrchardCMS/OrchardCore) - Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework.
 
 
