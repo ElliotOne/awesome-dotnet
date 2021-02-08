@@ -236,6 +236,7 @@ Contributions are always welcome!
 ### Queue and Messaging
 
 * [dotnetmq](https://github.com/hikalkan/dotnetmq) - DotNetMQ is an open source Message Broker that has several features.
+* [rabbitmq-dotnet-client](https://github.com/rabbitmq/rabbitmq-dotnet-client) - RabbitMQ .NET client for .NET Standard 2.0+ and .NET 4.6.1+
 
 ### Query Builders
 
