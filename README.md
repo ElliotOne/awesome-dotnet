@@ -254,6 +254,7 @@ Contributions are always welcome!
 
 ### Searching
 
+* [elasticsearch-net](https://github.com/elastic/elasticsearch-net) -Repository for both NEST and Elasticsearch.Net, the two official Elasticsearch .NET clients.
 
 ### Serialization
 
