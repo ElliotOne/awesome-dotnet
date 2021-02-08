@@ -195,6 +195,7 @@ Contributions are always welcome!
 ### Logging
 
 * [NLog](https://github.com/NLog/NLog) - NLog - Advanced and Structured Logging for Various .NET Platforms
+* [serilog](https://github.com/serilog/serilog) - Simple .NET logging with fully-structured events
 
 ### Machine Learning and Data Science
 
