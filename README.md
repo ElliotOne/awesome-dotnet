@@ -243,6 +243,7 @@ Contributions are always welcome!
 
 ### Scheduler and Job
 
+* [quartznet](https://github.com/quartznet/quartznet) - Quartz.NET is an opensource project aimed at creating a free-for-commercial use Job Scheduler, with enterprise features.
 
 ### SDKs
 
