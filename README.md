@@ -176,6 +176,8 @@ Contributions are always welcome!
 ### GUI
 
 * [Avalonia](https://github.com/AvaloniaUI/Avalonia) - A cross platform XAML framework for .NET
+* [winforms](https://github.com/dotnet/winforms) - Windows Forms is a .NET Core UI framework for building Windows desktop applications.
+
 
 ### IDE
 
