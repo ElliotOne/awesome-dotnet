@@ -215,6 +215,7 @@ Contributions are always welcome!
 
 ### Networking
 
+* [social-network-asp-net-core-example](https://github.com/mladenkn/social-network-asp-net-core-example) - A web api for social network application built with ASP.NET Core.
 
 ### Misc
 
