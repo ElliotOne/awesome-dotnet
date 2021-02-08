@@ -165,6 +165,7 @@ Contributions are always welcome!
 
 ### Functional Programming
 
+* [functional-csharp-code](https://github.com/la-yumba/functional-csharp-code) - Code samples for Functional Programming in C#
 
 ### Graphics
 
