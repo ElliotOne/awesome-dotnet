@@ -106,6 +106,7 @@ Contributions are always welcome!
 ### Caching
 
 * [EasyCaching](https://github.com/dotnetcore/EasyCaching) - 💥 EasyCaching is an open source caching library that contains basic usages and some advanced usages of caching which can help us to handle caching more easier!
+* [CacheManager](https://github.com/MichaCo/CacheManager) - CacheManager is an open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features.
 
 ### CMS
 
