@@ -207,6 +207,7 @@ Contributions are always welcome!
 
 ### Mathematics
 
+* [mathnet-numerics](https://github.com/mathnet/mathnet-numerics) - Math.NET Numerics is an opensource numerical library for .Net, Silverlight and Mono.
 
 ### Media
 
