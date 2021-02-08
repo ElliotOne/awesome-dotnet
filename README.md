@@ -190,6 +190,7 @@ Contributions are always welcome!
 ### IOC
 
 * [Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container
+* [DryIoc](https://github.com/dadhi/DryIoc) - DryIoc is fast, small, full-featured IoC Container for .NET
 
 ### Logging
 
