@@ -125,6 +125,7 @@ Contributions are always welcome!
 
 ### Compilers, Transpilers and Languages
 
+* [compilify](https://github.com/jrusbatch/compilify) - A web-based compiler for C# and VB.NET, powered by the Roslyn Project.
 * [roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
 
 ### Cryptography
