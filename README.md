@@ -250,6 +250,7 @@ Contributions are always welcome!
 
 ### Security
 
+* [AspNet.Security.OAuth.Providers](https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers) - AspNet.Security.OAuth.Providers is a collection of security middleware that you can use in your ASP.NET Core application to support social authentication providers like GitHub, Foursquare or Dropbox.
 
 ### Searching
 
