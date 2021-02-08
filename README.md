@@ -226,6 +226,7 @@ Contributions are always welcome!
 
 ### ORM
 
+* [Mighty](https://github.com/MightyOrm/Mighty) - A new, small, dynamic micro-ORM. Highly compatible with Massive, but with many essential new features.
 
 ### Profiling
 
