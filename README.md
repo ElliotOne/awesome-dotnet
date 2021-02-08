@@ -222,6 +222,7 @@ Contributions are always welcome!
 
 ### Office
 
+* [NPOI](https://github.com/dotnetcore/NPOI) - A .NET library for reading and writing Microsoft Office binary and OOXML file formats.
 
 ### ORM
 
