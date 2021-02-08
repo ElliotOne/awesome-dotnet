@@ -194,6 +194,7 @@ Contributions are always welcome!
 
 ### Logging
 
+* [NLog](https://github.com/NLog/NLog) - NLog - Advanced and Structured Logging for Various .NET Platforms
 
 ### Machine Learning and Data Science
 
