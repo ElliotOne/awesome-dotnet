@@ -165,6 +165,7 @@ Contributions are always welcome!
 
 ### Functional Programming
 
+* [CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions) - Functional extensions for C#
 * [functional-csharp-code](https://github.com/la-yumba/functional-csharp-code) - Code samples for Functional Programming in C#
 
 ### Graphics
