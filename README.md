@@ -203,6 +203,7 @@ Contributions are always welcome!
 
 ### Mail
 
+* [FluentEmail](https://github.com/lukencode/FluentEmail) - All in one email sender for .NET. Supports popular senders (SendGrid, MailGun, etc) and Razor templates.
 
 ### Mathematics
 
