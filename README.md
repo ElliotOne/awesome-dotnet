@@ -211,6 +211,7 @@ Contributions are always welcome!
 
 ### Media
 
+* [MediaToolkit.NetCore](https://github.com/mtebenev/MediaToolkit.NetCore) - A .NET library to convert and process all your video & audio files.
 
 ### Networking
 
