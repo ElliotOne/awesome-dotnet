@@ -151,6 +151,7 @@ Contributions are always welcome!
 
 ### Distributed Computing
 
+* [orleans](https://github.com/dotnet/orleans) - Orleans is a cross-platform framework for building distributed applications with .NET
 
 ### E-Commerce and Payments
 
