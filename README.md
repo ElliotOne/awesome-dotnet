@@ -116,6 +116,7 @@ Contributions are always welcome!
 
 ### Code Analysis and Metrics
 
+* [roslyn-analyzers](https://github.com/dotnet/roslyn-analyzers) - Roslyn analyzers analyze your code for style, quality and maintainability, design and other issues. 
 
 ### Compression
 
