@@ -131,6 +131,7 @@ Contributions are always welcome!
 ### Cryptography
 
 * [NETCore.Encrypt](https://github.com/myloveCc/NETCore.Encrypt) - NETCore encrypt and decrpty tool，Include aes，des，rsa，md5，sha1，sha256，sha384，sha512
+* [ektrah/nsec](https://github.com/ektrah/nsec) - A modern and easy-to-use cryptographic library for .NET Core based on libsodium
 
 ### Database
 
