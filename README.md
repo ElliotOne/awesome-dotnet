@@ -120,6 +120,8 @@ Contributions are always welcome!
 
 ### Compression
 
+* [CompressedStaticFiles](https://github.com/AnderssonPeter/CompressedStaticFiles) - asp.net core middleware to send compressed static files to the browser without having to compress on demand, also has support for sending more advanced image formats when the browser indicates that i has support for it.
+
 
 ### Compilers, Transpilers and Languages
 
