@@ -105,6 +105,7 @@ Contributions are always welcome!
 
 ### Caching
 
+* [EasyCaching](https://github.com/dotnetcore/EasyCaching) - 💥 EasyCaching is an open source caching library that contains basic usages and some advanced usages of caching which can help us to handle caching more easier!
 
 ### CMS
 
