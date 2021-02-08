@@ -143,6 +143,7 @@ Contributions are always welcome!
 
 ### Database Tools and Utilities
 
+* [EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools) - Entity Framework Core Power Tools - reverse engineering, migrations and model visualization for EF Core
 
 ### Date and Time
 
