@@ -135,6 +135,7 @@ Contributions are always welcome!
 
 ### Database
 
+* [efcore](https://github.com/dotnet/efcore) - EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.
 
 ### Database Drivers
 
