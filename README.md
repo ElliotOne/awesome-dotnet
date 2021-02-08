@@ -171,6 +171,7 @@ Contributions are always welcome!
 ### Graphics
 
 * [ImageSharp](https://github.com/SixLabors/ImageSharp) - A modern, cross-platform, 2D Graphics library for .NET
+* [veldrid](https://github.com/mellinoe/veldrid) - A low-level, portable graphics library for .NET.
 
 ### GUI
 
