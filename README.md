@@ -155,6 +155,7 @@ Contributions are always welcome!
 
 ### E-Commerce and Payments
 
+* [adyen-dotnet-api-library](https://github.com/Adyen/adyen-dotnet-api-library) - The Adyen API Library for .net framework enables you to work with Adyen APIs, Hosted Payment Pages and Terminal API with any .net application.
 
 ### Exceptions
 
