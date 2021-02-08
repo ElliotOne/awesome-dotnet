@@ -139,6 +139,7 @@ Contributions are always welcome!
 
 ### Database Drivers
 
+* [Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql) - Entity Framework Core provider for MySQL and MariaDB built on top of MySqlConnector
 
 ### Database Tools and Utilities
 
