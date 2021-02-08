@@ -199,6 +199,7 @@ Contributions are always welcome!
 
 ### Machine Learning and Data Science
 
+* [ML.NET](https://github.com/dotnet/machinelearning) - ML.NET is an open source and cross-platform machine learning framework for .NET.
 
 ### Mail
 
