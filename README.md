@@ -175,6 +175,7 @@ Contributions are always welcome!
 
 ### GUI
 
+* [Avalonia](https://github.com/AvaloniaUI/Avalonia) - A cross platform XAML framework for .NET
 
 ### IDE
 
