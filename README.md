@@ -230,6 +230,7 @@ Contributions are always welcome!
 
 ### Profiling
 
+* [CoreProfiler](https://github.com/teddymacn/CoreProfiler) - A .NET Core Profiling Library
 
 ### Queue and Messaging
 
