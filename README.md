@@ -235,6 +235,7 @@ Contributions are always welcome!
 
 ### Queue and Messaging
 
+* [dotnetmq](https://github.com/hikalkan/dotnetmq) - DotNetMQ is an open source Message Broker that has several features.
 
 ### Query Builders
 
