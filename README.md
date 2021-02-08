@@ -258,6 +258,7 @@ Contributions are always welcome!
 
 ### Serialization
 
+* [MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp) - The extremely fast MessagePack serializer for C#. It is 10x faster than MsgPack-Cli and outperforms other C# serializers.
 
 ### Template Engine
 
