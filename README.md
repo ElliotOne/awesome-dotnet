@@ -262,6 +262,7 @@ Contributions are always welcome!
 
 ### Template Engine
 
+* [RazorLight](https://github.com/toddams/RazorLight) - Template engine based on Microsoft's Razor parsing engine for .NET Core
 
 ### Tools
 
