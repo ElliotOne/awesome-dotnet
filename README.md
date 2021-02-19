@@ -267,9 +267,9 @@ Contributions are always welcome!
 
 ### Tools
 
-
 ### Web Framework
 
+* [signumsoftware/framework](https://github.com/signumsoftware/framework) - Open Source framework for writing data-centric applications over the latest technologies: .Net Core, C# 8 (not-nullable), ASP.NET Web API, Typescript 3.7 (strict), React, D3 and Sql Server or PostgreeSQL
 
 ### Web Socket
 
