@@ -273,6 +273,7 @@ Contributions are always welcome!
 
 ### Web Socket
 
+* [Fleck](https://github.com/statianzo/Fleck) - Fleck is a WebSocket server implementation in C#. Branched from the Nugget project, Fleck requires no inheritance, container, or additional references.
 * [websocket-sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
 * [Ninja.WebSockets](https://github.com/ninjasource/Ninja.WebSockets) - A c# implementation of System.Net.WebSockets.WebSocket for .Net Standard 2.0
 
