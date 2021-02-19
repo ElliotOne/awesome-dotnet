@@ -263,6 +263,7 @@ Contributions are always welcome!
 ### Template Engine
 
 * [RazorLight](https://github.com/toddams/RazorLight) - Template engine based on Microsoft's Razor parsing engine for .NET Core
+* [scriban](https://github.com/scriban/scriban) - A fast, powerful, safe and lightweight scripting language and engine for .NET
 
 ### Tools
 
