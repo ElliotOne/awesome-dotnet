@@ -280,6 +280,7 @@ Contributions are always welcome!
 ### Windows Service
 
 * [DotNetCore.WindowsService](https://github.com/PeterKottas/DotNetCore.WindowsService) - Simple library that allows one to host dot net core application as windows services. Perfect solution to power micro-services architecture.
+* [Topshelf](https://github.com/Topshelf/Topshelf) - An easy service hosting framework for building Windows services using .NET.
 
 ### Workflow
 
