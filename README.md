@@ -274,6 +274,7 @@ Contributions are always welcome!
 ### Web Socket
 
 * [websocket-sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
+* [Ninja.WebSockets](https://github.com/ninjasource/Ninja.WebSockets) - A c# implementation of System.Net.WebSockets.WebSocket for .Net Standard 2.0
 
 ### Windows Service
 
