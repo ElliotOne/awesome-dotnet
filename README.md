@@ -273,6 +273,7 @@ Contributions are always welcome!
 
 ### Web Socket
 
+* [websocket-sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
 
 ### Windows Service
 
