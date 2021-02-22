@@ -249,6 +249,7 @@ Contributions are always welcome!
 
 ### SDKs
 
+* [dotnet/sdk](https://github.com/dotnet/sdk) - Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI
 
 ### Security
 
