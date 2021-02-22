@@ -93,6 +93,8 @@ Contributions are always welcome!
 
 ### Bot
 
+* [BotBuilder-Samples](https://github.com/microsoft/BotBuilder-Samples) - This branch contains samples for the released version of the Microsoft Bot Framework V4 SDK for .NET, JS and Python.
+* 
 * [Telegram.Bot.Framework](https://github.com/TelegramBots/Telegram.Bot.Framework) - Simple framework for building Telegram bots
 
 ### Build Automation
