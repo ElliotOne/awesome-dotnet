@@ -249,6 +249,7 @@ Contributions are always welcome!
 
 ### SDKs
 
+* [dotnet/installer](https://github.com/dotnet/installer) - This repo contains the source code for the cross-platform .NET Core SDK. It aggregates the .NET Toolchain, the .NET Core runtime, the templates, and the .NET Core Windows Desktop runtime. It produces zip, tarballs, and native packages for various supported platforms.
 * [dotnet/sdk](https://github.com/dotnet/sdk) - Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI
 
 ### Security
