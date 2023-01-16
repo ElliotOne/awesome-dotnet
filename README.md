@@ -323,9 +323,12 @@ Contributions are always welcome!
 * [aspnetcore-realworld-example-app](https://github.com/gothinkster/aspnetcore-realworld-example-app) - ASP.NET Core backend implementation for RealWorld
 * [Angular-ASP.NetCoreWebAPI-MySQL-CRUD-project](https://github.com/shakenovdev/Angular-ASP.NetCoreWebAPI-MySQL-CRUD-project) - A web App built on Angular that interacts with WebAPI (.Net Core) which has MySQL database
 
-
 ## Articles
 
+* [Visual Studio Magazine](https://visualstudiomagazine.com/) - The home page of Visual Studio Magazine online, the leading site for enterprise .NET developers.
+* [Asp-Net-core-articles](https://www.c-sharpcorner.com/technologies/Asp-Net-core-articles) - List of all available articles about ASP.Net Core on [c-sharpcorner](www.c-sharpcorner.com)
+* [Articles filed in category '.NET Core'](https://www.codemag.com/Magazine/ByCategory/.NET%20Core) - List of all available articles about .Net Core on [codemag](www.codemag.com)
+* [.NET CORE](https://medium.com/net-core) - - List of all available articles about .Net Core on [medium](https://medium.com)
 
 ## Books
 
