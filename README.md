@@ -351,5 +351,9 @@ Contributions are always welcome!
 
 ## Podcasts
 
+* [.NET Podcasts](https://dotnetpodcasts.azurewebsites.net/) - Discover the app that lets one to listen to their favorite tech podcasts on the go, from any device, with topics including .NET, Azure, Microsoft 365, and much more.
+* [The .NET MAUI Podcast](https://www.dotnetmauipodcast.com/) - Keep up with the latest news in the world of mobile & desktop development with .NET MAUI!
+* [The .NET Core Podcast](https://dotnetcore.show/) - The .NET Core Podcast is a production of RJJ Software
+* [The .NET Core Podcast](https://discoverdot.net/broadcasts/donetcore-show) - An award-winning podcast where we reach into the core of the .NET technology stack and, with the help of the .NET community.
 
 ## Community
