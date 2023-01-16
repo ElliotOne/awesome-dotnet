@@ -301,9 +301,14 @@ Contributions are always welcome!
 
 ### Workflow
 
+* [ELSA](https://elsa-workflows.github.io/elsa-core/) - An open source .NET Standard library that provides APIs to build and execute workflows.
+* [workflow-core](https://github.com/danielgerlag/workflow-core) - A lightweight workflow engine for .NET Standard
+* [WorkflowEngine.NETCore-Core](https://workflowengine.io/downloads/net-core/) - A tool developed as a .NET library and a JavaScript component with a C# API for process control
 
 ## Roadmaps
 
+* [AspNetCore-Developer-Roadmap] - A comprehensive roadmap to becoming an ASP.NET Core developer
+* [.NET-Backend-Developer-Roadmap] - A roadmap for a .NET Backend Developer working with Microservices
 
 ## Starter Kits
 
