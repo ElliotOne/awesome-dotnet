@@ -221,6 +221,11 @@ Contributions are always welcome!
 
 ### Misc
 
+* [LINQPad](https://www.linqpad.net/) - A GUI tool for testing LINQ quesries. Also, used to execute C#/F#/VB expressions, statements or programs.
+* [LINQPad.QueryPlanVisualizer](https://github.com/Giorgi/LINQPad.QueryPlanVisualizer/) - View SQL Server/PostgreSQL queries execution directly in LINQPad.
+* [Humanizer](https://github.com/Humanizr/Humanizer) - A library for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantitites in a more human readable manner.
+* [React.NET](https://github.com/reactjs/React.NET) - A .NET library for JSX compilation and server-side rendering of React components
+* [InfinityCrawler](https://github.com/TurnerSoftware/InfinityCrawler) - A simple but powerful web crawler library for .NET
 
 ### Office
 
