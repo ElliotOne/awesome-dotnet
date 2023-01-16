@@ -68,7 +68,7 @@ Contributions are always welcome!
 * [Books](#books)
 * [Videos](#videos)
 * [Podcasts](#podcasts)
-* [Community](#community)
+* [Communities](#communities)
   
   
 ## Libraries, Frameworks and Tools
@@ -356,4 +356,8 @@ Contributions are always welcome!
 * [The .NET Core Podcast](https://dotnetcore.show/) - The .NET Core Podcast is a production of RJJ Software
 * [The .NET Core Podcast](https://discoverdot.net/broadcasts/donetcore-show) - An award-winning podcast where we reach into the core of the .NET technology stack and, with the help of the .NET community.
 
-## Community
+## Communities
+
+* [.NET Developer Community](https://dotnet.microsoft.com/en-us/platform/community) - Join millions of developers around the globe building apps with and contributing to .NET.
+* [.NET Foundation](https://dotnetfoundation.org/) - The .NET Foundation is an independent, non-profit organization established to support an innovative, commercially friendly, open-source ecosystem around the .NET platform.
+* [.NET DEV Community](https://dev.to/t/dotnet) - DEV community for .Net
