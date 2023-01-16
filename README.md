@@ -278,6 +278,12 @@ Contributions are always welcome!
 
 ### Tools
 
+* [Downloader](https://github.com/bezzad/Downloader) - A Fast, cross-platform and reliable multipart downloader with asynchronous progress events for .NET applications.
+* [Fiddler](https://www.telerik.com/fiddler) - A tool helps to debug web applications by capturing network traffic between the Internet and test computers.
+* [JSON Formatter](https://elmah.io/tools/json-formatter/) - A free online JSON formatter and validator
+* [dotnet-fake-json-server](https://github.com/ttu/dotnet-fake-json-server) - A Fake REST API that can be used as a Back End for prototyping or as a template for a CRUD Back End.
+* [azure-functions-core-tools](https://github.com/Azure/azure-functions-core-tools) - Command line tools to provide a local development experience for creating, developing, testing, running, and debugging Azure Functions.
+
 ### Web Framework
 
 * [signumsoftware/framework](https://github.com/signumsoftware/framework) - Open Source framework for writing data-centric applications over the latest technologies: .Net Core, C# 8 (not-nullable), ASP.NET Web API, Typescript 3.7 (strict), React, D3 and Sql Server or PostgreeSQL
