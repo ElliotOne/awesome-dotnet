@@ -343,6 +343,11 @@ Contributions are always welcome!
 
 ## Videos
 
+* [Introduction to ASP.NET Core MVC in C# plus LOTS of Tips](https://www.youtube.com/watch?v=1ck9LIBxO14) - In this video, Tim Corey is going to walks the audience through how MVC is set up, how authentication works, and how it is different from the .NET Framework version of MVC.
+* [ASP.NET Core MVC Tutorial For Beginners | Introduction To ASP.NET CORE MVC | Simplilearn](https://www.youtube.com/watch?v=bT28tqOKv-4) - This video on ASP.NET Core MVC explains the MVC architectural pattern and how ASP.NET incorporates it. The ASP.NET Core MVC framework is a lightweight, open source, and highly testable presentation framework designed specifically for use with ASP.NET Core. In this video we will understand the functions of MVC along with its components and at last we will see a demo to get started with asp.net mvc application.
+* [ASP.NET Core Crash Course - C# App in One Hour](https://www.youtube.com/watch?v=BfEjDD8mWYg) - Learn how to create a web database app in ASP.NET Core using Visual Studio and the C# language.
+* [Learn ASP.NET Core MVC (.NET 6) - Full Course](https://www.youtube.com/watch?v=hZ1DASYd9rk) - Learn the basics of .NET Core (.NET 6) and then build a simple CRUD application with MVC in this tutorial.
+* [Razor Pages for ASP.NET Core - Full Course (.NET 6)](https://www.youtube.com/watch?v=eru2emiqow0)Learn the basics of Razor Pages for ASP.NET Core. This course is for anyone who is familiar with ASP.NET Core basics and wants to know how to architect and code real world applications in ASP.NET Core (.NET 6).
 
 ## Podcasts
 
