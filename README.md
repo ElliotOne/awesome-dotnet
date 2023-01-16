@@ -316,6 +316,13 @@ Contributions are always welcome!
 
 ## Sample Projects
 
+* [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - Sample ASP.NET Core reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model
+* [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
+* [run-aspnetcore-microservices](https://github.com/aspnetrun/run-aspnetcore-microservices) - Microservices on .Net platforms which used Asp.Net Web API, Docker, RabbitMQ, MassTransit, Grpc, Ocelot API Gateway, MongoDB, Redis, PostgreSQL, SqlServer, Dapper, Entity Framework Core, CQRS and Clean Architecture implementation.
+* [practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core projects
+* [aspnetcore-realworld-example-app](https://github.com/gothinkster/aspnetcore-realworld-example-app) - ASP.NET Core backend implementation for RealWorld
+* [Angular-ASP.NetCoreWebAPI-MySQL-CRUD-project](https://github.com/shakenovdev/Angular-ASP.NetCoreWebAPI-MySQL-CRUD-project) - A web App built on Angular that interacts with WebAPI (.Net Core) which has MySQL database
+
 
 ## Articles
 
