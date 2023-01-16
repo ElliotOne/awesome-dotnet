@@ -247,6 +247,7 @@ Contributions are always welcome!
 
 ### Query Builders
 
+* [SqlKata](https://sqlkata.com/) - A fluent SQL query builder for C# which helps to deal with SQL queries in an elegant and predictable way.
 
 ### Scheduler and Job
 
