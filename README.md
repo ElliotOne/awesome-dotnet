@@ -209,6 +209,7 @@ Contributions are always welcome!
 
 ### Mathematics
 
+* [CardinalityEstimation](https://github.com/saguiitay/CardinalityEstimation) - A C#/.NET library for memory-efficient approximate distinct counting using HyperLogLog.
 * [mathnet-numerics](https://github.com/mathnet/mathnet-numerics) - Math.NET Numerics is an opensource numerical library for .Net, Silverlight and Mono.
 
 ### Media
