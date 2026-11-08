@@ -198,6 +198,7 @@ Contributions are always welcome!
 
 * [NLog](https://github.com/NLog/NLog) - NLog - Advanced and Structured Logging for Various .NET Platforms
 * [serilog](https://github.com/serilog/serilog) - Simple .NET logging with fully-structured events
+* [Serilog.Sinks.AzureDataExplorer](https://github.com/Azure/serilog-sinks-azuredataexplorer) - Serilog sink for writing structured log events to Azure Data Explorer (Kusto).
 
 ### Machine Learning and Data Science
 
