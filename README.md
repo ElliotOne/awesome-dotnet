@@ -218,6 +218,7 @@ Contributions are always welcome!
 ### Networking
 
 * [social-network-asp-net-core-example](https://github.com/mladenkn/social-network-asp-net-core-example) - A web api for social network application built with ASP.NET Core.
+* [WebDAVClient](https://github.com/saguiitay/WebDAVClient) - A C#/.NET library for browsing WebDAV storage and uploading, downloading, copying, moving and deleting remote files.
 
 ### Misc
 
